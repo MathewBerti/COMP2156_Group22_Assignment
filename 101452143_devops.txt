@@ -1,26 +1,20 @@
-Week One:
-    Why DevOps?
+COPM 2156 provides us with essential skills in configuring CI/CD pipelines and exploring tools like Travis CI and GitHub Actions to automate software development processes effectively.
+This course provides great hands-on experience using git and GitHub action by managing changes to source code during software development as well as tracking modifications in files and directories which allows users to revert to previous steps when needed
+Exploring GitHub action as a DevOps tool, creating Git repositories where developers store their code to grant more collaboration which allows them to share code, review changes and manage project workflow. 
+Moreover, we learn about the importance of “.yml” file and how to create it as well as how it works with GitHub action, By modifying the file and pushing the changes to the repository, we trigger a build process. We also explore the concept of Continuous Integration (CI) and Continuous Delivery (CD), understanding their significance in the software development lifecycle. Moreover, we create a package.json file, define test scripts, handle environment variables like the GitHub token, achieve a successful build, deploy our application, and integrate a badge into our README.md file to indicate the status of our latest build. 
+
+Through the past weeks:
+
         Explore the evolving of DevOps and the significant increase in modern software development.
         introduce the conept of a build pipline. It consists of a series of tasks that perform various steps in the build process.
-        Continuous Integration (CI) involves developers checking their code into a version-controlled repository multiple times per day, triggering automated build pipelines.
-        Continuous Delivery (CD) enables reliable, quick, and sustainable delivery of bug fixes, features, and configuration changes into production.
-        
-week two:
-    Version Control and Tools
-        Define version control systems (VCS) and their importance in managing code changes.
+        Explore the concept of Continuous Integration (CI) and Continuous Delivery (CD)
+        Define version control systems (VCS) and the importance in managing code changes.
         Discuss the benefits of using version control systems.
         Explain key terminology associated with version control systems.
         Compare centralized version control systems (CVCS) and distributed version control systems (DVCS), highlighting their differences and advantages.
-
-Week Three:
-    Application Architecture and Tech Stack
         Compare monolithic and microservice architectures, discussing their characteristics, advantages, and challenges.
         Explain the concepts of vertical and horizontal scaling in the context of application architecture and infrastructure design.
         Explore the technology stack components required to build reliable and scalable applications, including databases, web servers, and application frameworks.
-
-Week four:
-    DevOps Roles and CI/CD
-
         Define the roles and responsibilities of DevOps engineers, sysadmins, developers, and other stakeholders in implementing DevOps practices.
         Explore the tools and techniques used in DevOps environments for automation, monitoring, and infrastructure management.
         Discuss how traditional system administration tasks align with DevOps principles and practices.
