@@ -4,7 +4,6 @@ Exploring GitHub action as a DevOps tool, creating Git repositories where develo
 Moreover, we learn about the importance of “.yml” file and how to create it as well as how it works with GitHub action, By modifying the file and pushing the changes to the repository, we trigger a build process. We also explore the concept of Continuous Integration (CI) and Continuous Delivery (CD), understanding their significance in the software development lifecycle. Moreover, we create a package.json file, define test scripts, handle environment variables like the GitHub token, achieve a successful build, deploy our application, and integrate a badge into our README.md file to indicate the status of our latest build. 
 
 Through the past weeks:
-
         Explore the evolving of DevOps and the significant increase in modern software development.
         introduce the conept of a build pipline. It consists of a series of tasks that perform various steps in the build process.
         Explore the concept of Continuous Integration (CI) and Continuous Delivery (CD)
@@ -19,7 +18,9 @@ Through the past weeks:
         Explore the tools and techniques used in DevOps environments for automation, monitoring, and infrastructure management.
         Discuss how traditional system administration tasks align with DevOps principles and practices.
         Explore the cultural aspects of DevOps, including collaboration, continuous improvement, and the DevOps lifecycle stages: plan, code, build, test, release, deploy, operate, and monitor.
-        
-
+        Add scripts and dependencies to the package.json file, enabling tasks such as building the application and deploying it to GitHub Pages.
+        Use the application source code (contained in the "src" and "public" directories) into the project directory, preparing it for deployment.
+        Modify and commit package.json, package-lock.json, and make sure that the application source are tracked.
+        Install npm ensuring that the necessary packages are available for building and running the SPA.
 
         
