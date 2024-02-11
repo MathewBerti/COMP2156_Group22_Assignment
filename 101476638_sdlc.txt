@@ -1,0 +1,10 @@
+DevOps engineers streamline software development by automating tasks, fostering collaboration, and integrating development with operations. Key responsibilities include:
+
+    Automating build, testing, and deployment processes.
+    Implementing CI/CD pipelines for rapid and reliable releases.
+    Managing infrastructure using code (IaC) for scalability and consistency.
+    Monitoring application performance and security.
+    Leveraging cloud platforms and containerization for deployment.
+    Ensuring version control and adherence to best practices.
+    Continuous learning to stay updated with evolving technologies and practices.
+    
