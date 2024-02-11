@@ -2,3 +2,8 @@ In COMP 2156, your success is contingent upon several key factors. First and for
  In the event of a missed lecture or lab, proactive communication via email ensures that you remain on track and can catch up effectively. 
 
  Cours full with hands-on skills on githube, vscode, travis CL and much more. The way how we connect applications and run them is very intresting. every class there is a new information which makes learning more intresting.
+ Students at the end of the coures expect to be able to effectively carry out the roles of a System or Network engineer with DevOps processes by
+
+utilizing the industry-standard tools and techniques and strategies such as CI/CD, as well as
+
+software development lifecycle and containerization for deployment.
