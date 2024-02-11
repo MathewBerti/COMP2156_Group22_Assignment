@@ -1,0 +1,2 @@
+DevOps emphasizes collaboration between development and operations teams, 
+fostering a culture of effective communication and cooperation throughout the software development lifecycle.
