@@ -23,7 +23,5 @@
 ##Pull request file created and deleted from GitHub
  
 ##Pull request template file created from local machine
-## 101476638-Rabaa beanch added
-##101476638-Rabaa branch merged
 >>>>>>> 50cdc69640107d0ca195b813290f547bea6d9fc5
 
