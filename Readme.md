@@ -7,9 +7,9 @@
 ## 4- Fischer, Kyle
 ## 5- Alrawi, Rabaa
 
-## GitHub Action created
-## put your comments here
-## 101452143-Sally branch addedd
-## Pull request file created and deleted from GitHub 
-## Pull request template file created from local machine
+##GitHub Action created
+##put your comments here
+##101452143-Sally branch addedd
+##Pull request file created and deleted from GitHub 
+##Pull request template file created from local machine
 
