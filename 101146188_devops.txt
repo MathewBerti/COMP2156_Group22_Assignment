@@ -1,0 +1,8 @@
+COMP2156 is a course designed to equip students with essential skills in automating 
+software development workflows through continuous integration and continuous delivery pipelines. 
+Students learn to leverage tools like Travis CI and GitHub Actions to streamline processes such as testing and deployment. 
+The course emphasizes hands-on experience with git and GitHub Actions, enabling effective management of source code modifications and change monitoring. 
+Additionally, learners explore the significance of JSON packages, such as package.json,
+ in managing dependencies and scripts for building, testing, and deploying applications. 
+ Through practical exercises and real-world applications, students gain a comprehensive understanding of DevOps principles and practices,
+  preparing them for success in modern software development environments.
