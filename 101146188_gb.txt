@@ -6,3 +6,7 @@ graduates are well-equipped to meet the demands of the rapidly evolving IT secto
 
 Furthermore, the program emphasizes critical thinking and problem-solving skills,
  enabling students to effectively troubleshoot complex network and security issues
+
+ Additionally, the curriculum integrates ethical considerations, 
+ equipping learners with the ethical frameworks necessary 
+ to navigate the complex landscape of cybersecurity responsibly and ethically.
