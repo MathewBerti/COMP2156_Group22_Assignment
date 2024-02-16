@@ -6,3 +6,7 @@ Additionally, learners explore the significance of JSON packages, such as packag
  in managing dependencies and scripts for building, testing, and deploying applications. 
  Through practical exercises and real-world applications, students gain a comprehensive understanding of DevOps principles and practices,
   preparing them for success in modern software development environments.
+
+  Furthermore, COMP2156 delves into advanced topics such as containerization and orchestration with Docker and Kubernetes. 
+  Students are exposed to industry-standard practices for managing scalable and resilient infrastructure, 
+  ensuring the reliability and efficiency of their applications.
