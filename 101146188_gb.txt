@@ -3,3 +3,6 @@ IT infrastructure management. Students gain practical experience through hands-o
 preparing them for roles as network technicians, system administrators, or cybersecurity analysts. 
 With a focus on emerging technologies and industry certifications, 
 graduates are well-equipped to meet the demands of the rapidly evolving IT sector
+
+Furthermore, the program emphasizes critical thinking and problem-solving skills,
+ enabling students to effectively troubleshoot complex network and security issues
