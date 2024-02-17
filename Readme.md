@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 ## Group 22_COPM2156_DevOps_Project_1
 ## Group Members:
@@ -30,4 +28,3 @@
 ##101467692-Kyle_branch merged
 
 ##101468003-Mathew branch merged
->>>>>>> parent of 00e881a (Changes made)
