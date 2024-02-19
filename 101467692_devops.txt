@@ -1,0 +1,3 @@
+Comp 2156 is a course on Devops offered at George Brown College
+It showcases the use of GitHub on local machines being able to push files to GitHub directly.
+It allows for enhanced file collaboration among many other capabilities.
